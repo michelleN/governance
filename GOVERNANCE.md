@@ -97,7 +97,7 @@ The Spin Governance Committee will select a chair to set agendas, call meetings,
 
 The default decision making process is objection-free consensus. In other words, a decision is made when all decision makers have had time to consider the decision and do not raise any objections. Silence on any consensus decision is equivalent to non-objection. Explicit agreement may be stated at will.
 
-Decision making scenarios MUST be promoted appropriately by the maintainer or committee member overseeing the issue. All substantial changes in any part of the Spin project including for governance related changes require a SIP.
+Decision making scenarios MUST be promoted appropriately by the maintainer or committee member overseeing the issue. All substantial changes in any part of the Spin project including governance related changes require a SIP.
 
 All substantial changes to governance require a supermajority quorum on the governance committee.
 
