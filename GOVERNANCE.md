@@ -105,7 +105,7 @@ In the extreme case that objection-free consensus cannot be reached after a reas
 
 If a decision impacts multiple repositories or requires a coordinated effort across multiple repositories and project maintainers are unable to reach a decision on their own for the relevant projects, a maintainer can call for a decision from the Spin Governance Committee.
 
-In the extreme case that objection-free consensus cannot be reached after a reasonable amount of time and effort on the governance committee, a committee member can call for a supermajority vote form the committee. If another member seconds the vote, the vote MUST take place.
+In the extreme case that objection-free consensus cannot be reached after a reasonable amount of time and effort on the governance committee, a committee member can call for a supermajority vote from the committee. If another member seconds the vote, the vote MUST take place.
 
 ## Glossary
 
