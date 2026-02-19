@@ -51,7 +51,7 @@ The Spin Framework organization consists of many projects or codebases with diff
 
 Existing projects may be proposed by submitting a pull request to this document adding the project and its future location in this organization to the above list with a clear pull request description indicating who maintains the project and why it should be part of the Spin Framework GitHub organization. Once the pull request is approved, a repository transfer will be initiated. Once transfer is complete, the pull request will be merged.
 
-A new project it must be proposed through the [Spin Improvement Proposal](https://github.com/spinframework/spin/blob/main/docs/content/sips/index.md) process in the Spin repository.
+A new project must be proposed through the [Spin Improvement Proposal](https://github.com/spinframework/spin/blob/main/docs/content/sips/index.md) process in the Spin repository.
 
 ## Project Maintainers
 
