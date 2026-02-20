@@ -31,6 +31,7 @@ The Spin Framework organization consists of many projects or codebases with diff
     - [Fermyon Platform Plugin](https://github.com/fermyon/platform-plugin)
     - [Spin Test Plugin](https://github.com/spinframework/spin-test)
     - [Spin Deps Plugin](https://github.com/spinframework/spin-deps-plugin)
+    - [Spin OTel Plugin](https://github.com/spinframework/otel-plugin)
   - Triggers:
     - [Spin Command Trigger](https://github.com/spinframework/spin-trigger-command)
     - [Spin SQS Trigger](https://github.com/spinframework/spin-trigger-sqs)
